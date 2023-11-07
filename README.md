@@ -1,1 +1,1 @@
- ## **[my CV in markdown format](https://github.com/andrewbarkovets/rsschool-cv.git)**
+ ## **[my CV in markdown format](https://andrewbarkovets.github.io/rsschool-cv/)**
